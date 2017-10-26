@@ -20,7 +20,7 @@
     "y": 0.001434794317447086
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,7 +32,7 @@
       "id": "791D111D-BFC9-4E2A-8CEF-DA1D95DD692C"
     }
   ],
-  "name": "Rectangle 3",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

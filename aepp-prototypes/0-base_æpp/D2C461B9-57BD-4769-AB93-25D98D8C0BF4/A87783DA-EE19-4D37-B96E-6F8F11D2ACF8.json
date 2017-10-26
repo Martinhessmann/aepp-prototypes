@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 12,
   "masterInfluenceEdgeMinXPadding": 8,
   "masterInfluenceEdgeMinYPadding": 6,
-  "name": "Card",
+  "name": "card/large",
   "nameIsFixed": false,
   "overrides": {
     "A27D5D9B-F3F6-4CD7-8DB1-830B49E86C33": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 70,
+  "changeIdentifier": 74,
   "do_objectID": "4407122B-DCD1-4265-897E-D0275682B0BC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 144,
-    "y": 2421
+    "x": 432,
+    "y": 3130
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "CF676D98-F9EA-4C9A-8B20-42E2ED87F808"
     }
   ],
-  "name": "fill/dark-grey",
+  "name": "fill/dark",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

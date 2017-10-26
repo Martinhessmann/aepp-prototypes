@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "avatar_small",
+  "name": "avatar/1",
   "nameIsFixed": false,
   "resizingConstraint": 45,
   "resizingType": 0,

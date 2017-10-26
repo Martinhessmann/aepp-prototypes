@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 314,
+  "changeIdentifier": 384,
   "do_objectID": "4DB8365D-1592-4C3A-8EE3-07538E916326",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 22,
     "width": 60,
-    "x": 140,
-    "y": 6126
+    "x": 840,
+    "y": 7774
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
     },
     {
       "class": "text",
-      "id": "63B5B249-FF96-46C0-82E1-668177ABDF28"
+      "id": "582975A6-BE7C-4A17-B3E6-254998243F70"
     }
   ],
   "name": "tag/pink",
